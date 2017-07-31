@@ -5,3 +5,10 @@ D:\MicroBase\MicroBase.WebApi\MicroBase.Core\obj\Debug\netstandard1.4\MicroBase.
 D:\MicroBase\MicroBase.WebApi\MicroBase.Core\obj\Debug\netstandard1.4\MicroBase.Core.AssemblyInfo.cs
 D:\MicroBase\MicroBase.WebApi\MicroBase.Core\obj\Debug\netstandard1.4\MicroBase.Core.dll
 D:\MicroBase\MicroBase.WebApi\MicroBase.Core\obj\Debug\netstandard1.4\MicroBase.Core.pdb
+C:\Development\MicroBase\MicroBase.Core\bin\Debug\netstandard1.4\MicroBase.Core.deps.json
+C:\Development\MicroBase\MicroBase.Core\bin\Debug\netstandard1.4\MicroBase.Core.dll
+C:\Development\MicroBase\MicroBase.Core\bin\Debug\netstandard1.4\MicroBase.Core.pdb
+C:\Development\MicroBase\MicroBase.Core\obj\Debug\netstandard1.4\MicroBase.Core.csprojResolveAssemblyReference.cache
+C:\Development\MicroBase\MicroBase.Core\obj\Debug\netstandard1.4\MicroBase.Core.AssemblyInfo.cs
+C:\Development\MicroBase\MicroBase.Core\obj\Debug\netstandard1.4\MicroBase.Core.dll
+C:\Development\MicroBase\MicroBase.Core\obj\Debug\netstandard1.4\MicroBase.Core.pdb
